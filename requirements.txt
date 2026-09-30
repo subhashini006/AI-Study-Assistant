@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 streamlit
 pymupdf
 python-dotenv
 google-generativeai
 sentence-transformers
 faiss-cpu
-=======
-streamlit
-pymupdf
-python-dotenv
-google-generativeai
-sentence-transformers
-faiss-cpu
->>>>>>> d1fa288f143696e40dd5984fc9dbca918ab4d2e3
 numpy
